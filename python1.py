@@ -1,4 +1,4 @@
 print("Amma")
-print("Hello world")
-print("jack")
+print("Appa")
+print("Sadhana")
 print("Hi")
