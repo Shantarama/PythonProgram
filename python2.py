@@ -1,4 +1,2 @@
-print("a")
 print("B")
-print("C")
-print("d")
+print("D")
