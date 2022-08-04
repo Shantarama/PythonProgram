@@ -1,2 +1,5 @@
 print("E")
 print("e")
+print("Y")
+print("y")
+print("5-25")
